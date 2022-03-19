@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 136" width="165" height="136">
+	<title>section_1</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="92.686" y1="131.515" x2="92.686" y2="-2.807">
+			<stop offset="0" stop-color="#a26b00"  />
+			<stop offset="1" stop-color="#a26b00" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill-opacity: 0.902;fill: url(#grd1);stroke: #000000;paint-order:stroke fill markers;stroke-opacity:0.18;stroke-width: 2 } 
+	</style>
+	<g id="section_1">
+		<g id="scroll_2">
+			<path id="twitter" class="shp0" d="M164 17.31L148.72 32.63C148.72 32.63 148.72 31.24 148.72 35.18C148.72 37.98 148.27 40.65 147.62 43.25C147.26 64.31 140.56 92.25 113.06 114.3C58.96 157.67 1 119.4 1 119.4C46.84 119.4 46.84 104.09 46.84 104.09C36.66 104.09 16.28 83.67 16.28 83.67C21.37 88.77 31.56 83.67 31.56 83.67C6.09 68.36 6.09 53.04 6.09 53.04C11.19 58.15 21.37 53.04 21.37 53.04C-4.09 32.63 11.19 7.1 11.19 7.1C16.28 32.63 82.5 42.83 82.5 42.83L83.34 42.41C82.82 40.08 82.5 35.12 82.5 32.63C82.5 14.3 97.32 2 115.61 2C125.67 2 134.58 6.6 140.65 13.7L143.62 12.21L158.91 2L148.72 22.42L164 17.31Z" />
+		</g>
+	</g>
+</svg>
