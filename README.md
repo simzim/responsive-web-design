@@ -9,7 +9,7 @@ https://github.com/rolling-scopes-school/tasks/blob/master/tasks/theyalow-en(LT)
 _______________________________________________________________________________________
 
 Deploy:
-
+https://simzim.github.io/responsive-web-design/
 _______________________________________________________________________________________
 
 #### Web page Desktop version screenshot:
