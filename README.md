@@ -1,14 +1,14 @@
 # responsive-web-design
 html + css
 
-#### The task was done for RS school courses < JavaScript/Front-end >
+#### The task was completed to gain new knowledge
 _______________________________________________________________________________________
 
-Task description
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/theyalow-en(LT).md
+## Task description
+Create a web page, strictly according to the design. Pixel Perfect Implementation
 _______________________________________________________________________________________
 
-Deploy:
+ ## Deploy:
 https://simzim.github.io/responsive-web-design/
 _______________________________________________________________________________________
 
