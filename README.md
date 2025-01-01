@@ -1,6 +1,5 @@
 # responsive-web-design
 html + css
-
 #### The task was completed to gain new knowledge
 _______________________________________________________________________________________
 
